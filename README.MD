@@ -10,7 +10,7 @@ Book API is a simple REST API for managing books and authors using **Node.js**, 
 
 ---
 
-## 🛠 Installation
+## 🛠 How To Instal
 
 ### 1️⃣ Clone the repository
 ```sh
